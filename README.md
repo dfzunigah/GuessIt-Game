@@ -12,7 +12,7 @@ This is a simple "game", I started developing it in a way I could also try and t
 
 ## Installation
 
-Releases just include a simple .JAR file, so no installation required, just open it.
+Releases just include a simple .JAR file, so no installation required, just open it. In any case you'd like to see the "compiled code" you can change the extension of the file, like this: guessgame.jar -> guessgame.jar.zip, this will generate a ZIP file where you can find the code. Also you can see the source code with this useful tool: [JD GUI] (http://jd.benow.ca/), this allows you to decompile .JAR files.
 
 ## API Reference
 
