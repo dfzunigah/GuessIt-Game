@@ -16,7 +16,7 @@ Releases just include a simple .JAR file, so no installation required, just open
 
 ## API Reference
 
-
+Changelog of the program can be found [here](https://github.com/dfzunigah/GuessIt-Game/blob/master/Changelog.pdf)
 
 ## Tests
 
