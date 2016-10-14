@@ -28,4 +28,4 @@ The program has been tested and all visible bugs have been removed, anyways if y
 
 ## License
 
-This is a public repository but anyways hard work has been put on this (despite it's not a big deal), please refer the project and give credits to the authors. It can't be used for commercial purposes.
+This is a public repository but anyways hard work has been put on this (despite it's not a big deal), please refer the project and give credits to the authors. It can't be used for commercial purposes. This project works under the Apache License 2.0
