@@ -1,35 +1,31 @@
 # GuessIt-Game
+
 Java simple game.
 
 ## Synopsis
 
-At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
-
-## Code Example
-
-Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
+The "game" [original idea](https://github.com/dfzunigah/GuessIt-Game/releases/tag/v1.0.0) was taken from a MOOC from the University of Helsinki. I took the idea and developed it further adding new features and stuff. It's a simple program but it involves almost everything of Java basics. It also set the opportunity to learn how GitHub works and learn more about how to develop projects and software. I'd appreciate any improvement you can tell me or what I can do better. I'm starting to code so not that into big deals but I learn fast :)
 
 ## Motivation
 
-A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
+This is a simple "game", I started developing it in a way I could also try and test GitHub.
 
 ## Installation
 
-Provide code examples and explanations of how to get the project.
+Releases just include a simple .JAR file, so no installation required, just open it.
 
 ## API Reference
 
-Depending on the size of the project, if it is small and simple enough the reference docs can be added to the README. For medium size to larger projects it is important to at least provide a link to where the API reference docs live.
+
 
 ## Tests
 
-Describe and show how to run the tests with code examples.
+The program has been tested and all visible bugs have been removed, anyways if you realize there's something wrong, give me a shotout. This is a very basic program so there's no test battery.
 
 ## Contributors
 
- - Daniel [Twitter](https://twitter.com/dfzunigah)
- Let people know how they can dive into the project, include important links to things like issue trackers, irc, twitter accounts if applicable.
+ - Daniel [Twitter](https://twitter.com/dfzunigah) - [Instagram](https://instagram.com/dfzunigah)
 
 ## License
 
-A short snippet describing the license (MIT, Apache, etc.)
+This is a public repository but anyways hard work has been put on this (despite it's not a big deal), please refer the project and give credits to the authors. It can't be used for commercial purposes.
